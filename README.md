@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adbh864
 - 👀 I’m interested in cooding
-- 🌱 I’m currently learning hacking
+- 🌱 I’m currently learning ethical hacking
 - 💞️ I’m looking to collaborate on evry thing
 - 📫 How to reach me 
 - ⚡ Fun fact: ...
