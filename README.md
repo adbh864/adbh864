@@ -2,7 +2,7 @@
 - 👀 I’m interested in cooding
 - 🌱 I’m currently learning hacking
 - 💞️ I’m looking to collaborate on evry thing
-- 📫 How to reach me fitnesjhony@gmail.com
+- 📫 How to reach me 
 - ⚡ Fun fact: ...
 
 <!---
